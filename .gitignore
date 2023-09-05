@@ -1,0 +1,5 @@
+libs/
+build/
+*.DS_Store
+cmake/
+.vscode/
